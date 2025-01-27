@@ -25,7 +25,3 @@ Questions and Issues
 
 If you find any bugs or have any questions about this code, please contact Regis [rdjaha@bcam.org](rdjaha@bcam.org). 
 
-Acknowledgments
---------------------
-
-This report was made possible through the support and guidance of Refonte Learning during the internship program. Their commitment to fostering practical learning experiences provided invaluable insights and resources that shaped this analysis.
