@@ -15,7 +15,7 @@ This repository contains the Customer Behavior Analysis [Report](https://github.
 
 Read the [Report](https://github.com/RegisKonan/Customer_Behavior_Analysis/blob/5a6cd095f42fb54b14dee7296b83252099b298a4/Regis_Konan_Customer_Report.pdf): Review the insights and recommendations for actionable strategies.
 
-Data Analysis Code: Use the accompanying [Python]() scripts to replicate or extend the analysis.
+Data Analysis Code: Use the accompanying [Python](https://github.com/RegisKonan/Customer_Behavior_Analysis/blob/5a6cd095f42fb54b14dee7296b83252099b298a4/Regis_Konan_Customer_Behavior_Analysis.ipynb) scripts to replicate or extend the analysis.
 
 Customize Recommendations: Adapt the proposed strategies to fit your specific business context.
 
