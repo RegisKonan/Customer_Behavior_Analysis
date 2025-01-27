@@ -7,6 +7,12 @@ This repository contains the Customer Behavior Analysis Report, which summarizes
 
 ## How to Use This Repository
 
+1. Clone this repository.
+   ```sh
+    git clone https://github.com/iurteaga/vae_understanding.git
+    cd vae_understanding
+   ```
+
 Read the Report: Review the insights and recommendations for actionable strategies.
 
 Data Analysis Code: Use the accompanying Python scripts to replicate or extend the analysis.
