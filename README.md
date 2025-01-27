@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the Customer Behavior Analysis [Report](), which summarizes insights and actionable recommendations derived from a detailed exploratory data analysis of customer purchasing behavior. The report aims to assist businesses in improving sales, customer retention, and operational efficiency.
+This repository contains the Customer Behavior Analysis [Report](https://github.com/RegisKonan/Customer_Behavior_Analysis/blob/5a6cd095f42fb54b14dee7296b83252099b298a4/Regis_Konan_Customer_Report.pdf), which summarizes insights and actionable recommendations derived from a detailed exploratory data analysis of customer purchasing behavior. The report aims to assist businesses in improving sales, customer retention, and operational efficiency.
 
 
 ## How to Use This Repository
@@ -13,7 +13,7 @@ This repository contains the Customer Behavior Analysis [Report](), which summar
     cd Customer_Behavior_Analysis
    ```
 
-Read the [Report](): Review the insights and recommendations for actionable strategies.
+Read the [Report](https://github.com/RegisKonan/Customer_Behavior_Analysis/blob/5a6cd095f42fb54b14dee7296b83252099b298a4/Regis_Konan_Customer_Report.pdf): Review the insights and recommendations for actionable strategies.
 
 Data Analysis Code: Use the accompanying [Python]() scripts to replicate or extend the analysis.
 
