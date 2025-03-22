@@ -23,5 +23,5 @@ Customize Recommendations: Adapt the proposed strategies to fit your specific bu
 Questions and Issues
 --------------------
 
-If you find any bugs or have any questions about this code, please contact Regis [rdjaha@bcam.org](rdjaha@bcam.org). 
+If you find any bugs or have any questions about this code, please contact Regis [rdjaha@bcam.org](rdjaha@bcamath.org). 
 
